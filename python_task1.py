@@ -35,6 +35,7 @@ def main():
     overs=int(input("Enter the number of overs: "))
     p=Handcricket(overs)  #function calling
     print(p)
+main()
 
 # In[6]:
 
